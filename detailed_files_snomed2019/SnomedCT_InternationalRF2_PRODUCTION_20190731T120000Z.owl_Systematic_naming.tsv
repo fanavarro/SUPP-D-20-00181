@@ -1,0 +1,379 @@
+Metric	Class	Class depth	LR	Positive Cases	Positive cases average depth	Positive cases average distance to LR class	Negative Cases	Negative cases average depth	Negative cases average distance to LR class	Metric Value	Hierarchy
+Systematic naming	http://snomed.info/id/38112003	4	1	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/19338005	4	2	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/79605009	4	3	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/9362000	4	4	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/34001005	4	5	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/263925004	7	venous	1	8.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/277318003	7	m	0	NaN	NaN	0	NaN	NaN	NaN	Staging and scales
+Systematic naming	http://snomed.info/id/300594005	8	resonance	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/3445001	4	10	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/732587006	4	20	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/732774003	4	50	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/21134002	5	disability	61	6.590	1.590	7	5.714	1.286	0.897	Clinical finding
+Systematic naming	http://snomed.info/id/253861007	4	effect	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255551008	6	posterior	3	7.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/259051005	6	foot	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/246176004	7	form	0	NaN	NaN	3	8.667	1.667	0.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/18720000	6	in	0	NaN	NaN	1	7.000	1.000	0.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/373067005	5	no	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/38082009	7	hemoglobin	536	9.910	2.910	11	8.818	1.818	0.980	Substance
+Systematic naming	http://snomed.info/id/420862001	5	on	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/75478009	4	poisoning	3323	6.996	2.996	404	6.297	2.297	0.892	Clinical finding
+Systematic naming	http://snomed.info/id/227250008	7	marrow	0	NaN	NaN	0	NaN	NaN	NaN	Substance
+Systematic naming	http://snomed.info/id/62105006	6	compound	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255333006	5	conventional	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/86273004	5	biopsy	1466	6.897	1.926	45	6.600	1.733	0.970	Procedure
+Systematic naming	http://snomed.info/id/263851003	5	reaction	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255609007	6	partial	1	7.000	1.000	1	7.000	1.000	0.500	Qualifier value
+Systematic naming	http://snomed.info/id/264010009	7	gastric	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/263767004	7	genital	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/1431002	5	fixation	529	6.327	1.399	465	7.181	2.228	0.532	Procedure
+Systematic naming	http://snomed.info/id/259296007	8	phosphate	17	8.000	0.471	3	7.333	0.667	0.850	Substance
+Systematic naming	http://snomed.info/id/34896006	5	incision	844	7.180	2.190	1422	7.659	2.681	0.372	Procedure
+Systematic naming	http://snomed.info/id/255396000	5	acquired	2	6.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/70150004	7	bile	1	8.000	1.000	0	NaN	NaN	1.000	Substance
+Systematic naming	http://snomed.info/id/133936004	5	adult	0	NaN	NaN	6	6.500	1.500	0.000	Social context
+Systematic naming	http://snomed.info/id/3404009	9	bite	3	10.000	1.000	1	8.000	1.000	0.750	Body structure
+Systematic naming	http://snomed.info/id/782161000	3	bite	75	6.933	3.933	2	7.000	4.000	0.974	Event
+Systematic naming	http://snomed.info/id/248152002	5	female	1	6.000	1.000	0	NaN	NaN	1.000	Clinical finding
+Systematic naming	http://snomed.info/id/736206000	6	dehydrogenase	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255575008	8	inguinal	1	9.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/261122009	6	lower	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/738956005	4	oral	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/260548002	7	oral	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/78014005	7	urine	0	NaN	NaN	0	NaN	NaN	NaN	Substance
+Systematic naming	http://snomed.info/id/55607006	5	problem	68	6.706	1.706	76	7.316	2.342	0.472	Clinical finding
+Systematic naming	http://snomed.info/id/277113001	7	pelvic	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/738989005	4	vaginal	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255561001	6	medial	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/67922002	6	serum	2	7.000	1.000	0	NaN	NaN	1.000	Substance
+Systematic naming	http://snomed.info/id/59108006	5	injection	795	6.503	1.561	432	6.921	1.944	0.648	Procedure
+Systematic naming	http://snomed.info/id/261179002	7	thoracic	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/25723000	6	dysplasia	17	7.118	1.118	21	7.905	1.905	0.447	Body structure
+Systematic naming	http://snomed.info/id/52988006	5	lesion	17	7.765	2.765	3461	10.207	5.207	0.005	Body structure
+Systematic naming	http://snomed.info/id/88878007	5	protein	279	7.835	2.835	8332	7.789	2.789	0.032	Substance
+Systematic naming	http://snomed.info/id/255711007	6	pattern	9	7.000	1.000	0	NaN	NaN	1.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/255765007	5	fluid	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/71388002	2	procedure	1609	6.096	4.096	56560	7.060	5.060	0.028	Procedure
+Systematic naming	http://snomed.info/id/50863008	6	plasma	5	7.000	1.000	0	NaN	NaN	1.000	Substance
+Systematic naming	http://snomed.info/id/303231004	7	intracranial	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/39972003	7	sodium	1	8.000	1.000	0	NaN	NaN	1.000	Substance
+Systematic naming	http://snomed.info/id/267038008	3	edema	258	5.953	2.953	254	6.299	3.299	0.504	Clinical finding
+Systematic naming	http://snomed.info/id/79654002	7	edema	19	7.947	0.947	3	8.000	1.000	0.864	Body structure
+Systematic naming	http://snomed.info/id/408099007	7	suture	51	9.157	2.157	17	9.294	2.294	0.750	Physical object
+Systematic naming	http://snomed.info/id/118635009	5	revision	400	6.220	1.255	63	6.698	1.730	0.864	Procedure
+Systematic naming	http://snomed.info/id/2667000	5	absent	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/49872002	3	virus	1068	8.933	5.933	1041	8.555	5.555	0.506	Organism
+Systematic naming	http://snomed.info/id/45169001	6	without	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/125666000	7	burn	622	8.611	1.704	74	8.797	2.176	0.894	Clinical finding
+Systematic naming	http://snomed.info/id/900000000000475002	7	time	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/410670007	7	time	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/118292001	4	removal	1436	6.304	2.304	8480	7.223	3.223	0.145	Procedure
+Systematic naming	http://snomed.info/id/739005008	5	powder	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/449872003	5	powder	19	6.158	1.158	0	NaN	NaN	1.000	Substance
+Systematic naming	http://snomed.info/id/410618006	7	application	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/410619003	5	application	211	6.545	1.573	166	6.271	1.367	0.560	Procedure
+Systematic naming	http://snomed.info/id/42504009	6	containing	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/52501007	7	leukocyte	5	9.800	2.800	283	9.682	2.689	0.017	Body structure
+Systematic naming	http://snomed.info/id/371151008	6	unable	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/22253000	6	pain	673	7.253	1.473	602	6.762	1.015	0.528	Clinical finding
+Systematic naming	http://snomed.info/id/260726005	7	part	0	NaN	NaN	4	8.000	1.000	0.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/69658003	6	specific	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/258773002	6	milliliter	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/82107009	3	radiation	32	5.875	2.875	38	7.000	4.000	0.457	Physical force
+Systematic naming	http://snomed.info/id/422077001	6	extract	4	7.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/125671007	8	rupture	8	9.250	1.250	22	8.818	0.818	0.267	Body structure
+Systematic naming	http://snomed.info/id/89780004	5	combined	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/74964007	6	other	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/75823008	8	discharge	4	9.250	1.250	1	6.000	2.000	0.800	Body structure
+Systematic naming	http://snomed.info/id/41796003	6	anastomosis	14	7.000	1.000	8	7.875	1.875	0.636	Body structure
+Systematic naming	http://snomed.info/id/733024003	5	tube	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/17621005	5	normal	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255204007	5	multiple	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/21594007	5	malignant	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/76797004	5	failure	3	6.000	1.000	0	NaN	NaN	1.000	Clinical finding
+Systematic naming	http://snomed.info/id/410657003	6	type	102	7.039	1.039	1	8.000	2.000	0.990	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/264164005	7	pulmonary	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/738985004	4	pulmonary	0	NaN	NaN	1	5.000	1.000	0.000	Qualifier value
+Systematic naming	http://snomed.info/id/40415009	6	proximal	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/38000004	6	lymph	0	NaN	NaN	0	NaN	NaN	NaN	Substance
+Systematic naming	http://snomed.info/id/261064006	8	cervical	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/87708000	5	vitamin	19	6.421	1.421	134	7.097	2.097	0.124	Substance
+Systematic naming	http://snomed.info/id/264042003	7	intervertebral	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/706449001	4	valve	37	5.405	1.405	21	6.381	2.381	0.638	Physical object
+Systematic naming	http://snomed.info/id/7771000	6	left	1	7.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/32088001	5	fifth	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/13543005	5	pressure	3	6.000	1.000	0	NaN	NaN	1.000	Clinical finding
+Systematic naming	http://snomed.info/id/84640000	7	nucleus	6	7.000	0.000	0	NaN	NaN	1.000	Body structure
+Systematic naming	http://snomed.info/id/1250004	5	decreased	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255549009	6	anterior	4	7.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/738984000	4	parenteral	0	NaN	NaN	3	5.000	1.000	0.000	Qualifier value
+Systematic naming	http://snomed.info/id/738986003	4	rectal	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255582007	8	rectal	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/10828004	5	positive	1	6.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/246268007	6	position	4	7.000	1.000	2	7.000	1.000	0.667	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/733021006	5	system	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/246333005	6	system	2	7.000	1.000	0	NaN	NaN	1.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/103421006	7	grade	2	8.000	1.000	0	NaN	NaN	1.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/420528006	4	100	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/2603003	6	secondary	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/44132006	7	abscess	10	7.900	0.900	3	8.667	1.667	0.769	Body structure
+Systematic naming	http://snomed.info/id/128477000	5	abscess	554	7.390	2.390	10	6.800	1.800	0.982	Clinical finding
+Systematic naming	http://snomed.info/id/255407002	6	neonatal	2	7.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/11713004	8	water	17	7.059	1.765	4	6.000	2.500	0.810	Substance
+Systematic naming	http://snomed.info/id/258214002	7	stage	1	8.000	1.000	0	NaN	NaN	1.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/260667007	6	graft	52	8.615	2.615	416	10.714	4.714	0.111	Substance
+Systematic naming	http://snomed.info/id/397165007	4	stain	216	6.102	2.102	4	5.750	1.750	0.982	Substance
+Systematic naming	http://snomed.info/id/255511005	5	long	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/26216008	5	central	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/732775002	4	500	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/87642003	7	dislocation	54	8.778	1.778	3	9.000	2.000	0.947	Body structure
+Systematic naming	http://snomed.info/id/257577001	9	canal	1	10.000	1.000	0	NaN	NaN	1.000	Environment or geographical location
+Systematic naming	http://snomed.info/id/373068000	4	undetermined	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/367643001	7	cyst	69	8.043	1.101	19	8.632	1.632	0.784	Body structure
+Systematic naming	http://snomed.info/id/441457006	4	cyst	493	6.645	2.645	157	6.930	2.930	0.758	Clinical finding
+Systematic naming	http://snomed.info/id/255216001	5	first	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/767525000	5	unit	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/75540009	5	high	2	6.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/255619001	6	total	1	7.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/255260001	7	following	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/257556004	4	surgery	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/35359004	3	family	4	4.000	1.000	0	NaN	NaN	1.000	Social context
+Systematic naming	http://snomed.info/id/264193005	7	segment	10	8.400	1.400	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/255554000	6	dorsal	2	7.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/88480006	7	potassium	1	8.000	1.000	0	NaN	NaN	1.000	Substance
+Systematic naming	http://snomed.info/id/410673009	7	region	1	8.000	1.000	0	NaN	NaN	1.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/373266007	4	anesthetic	6	5.500	1.500	97	6.227	2.227	0.058	Substance
+Systematic naming	http://snomed.info/id/263718001	6	complication	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/116223007	4	complication	421	6.817	2.817	5507	7.341	3.341	0.071	Clinical finding
+Systematic naming	http://snomed.info/id/389109008	3	group	14	5.143	2.143	264	5.992	2.992	0.050	Social context
+Systematic naming	http://snomed.info/id/246261001	7	group	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/264362003	6	home	12	7.917	1.917	132	9.235	3.235	0.083	Environment or geographical location
+Systematic naming	http://snomed.info/id/361269008	4	intentional	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/3723001	7	arthritis	337	7.866	1.205	327	7.670	1.055	0.508	Clinical finding
+Systematic naming	http://snomed.info/id/46053002	6	distal	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255324009	4	movement	29	6.897	2.897	260	8.623	4.623	0.100	Observable entity
+Systematic naming	http://snomed.info/id/795002	6	deep	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/56972008	9	lymphocyte	217	9.917	0.954	17	9.412	0.647	0.927	Body structure
+Systematic naming	http://snomed.info/id/263490005	6	status	38	7.658	1.658	0	NaN	NaN	1.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/248153007	5	male	1	6.000	1.000	0	NaN	NaN	1.000	Clinical finding
+Systematic naming	http://snomed.info/id/4147007	6	mass	10	6.900	0.900	2106	11.492	5.492	0.005	Body structure
+Systematic naming	http://snomed.info/id/224699009	10	study	0	NaN	NaN	0	NaN	NaN	NaN	Environment or geographical location
+Systematic naming	http://snomed.info/id/739008005	5	suspension	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/37595005	5	suspension	1	6.000	1.000	0	NaN	NaN	1.000	Substance
+Systematic naming	http://snomed.info/id/385286003	5	implant	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/732996003	5	implant	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/738906000	4	dental	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/8537005	5	solution	0	NaN	NaN	0	NaN	NaN	NaN	Substance
+Systematic naming	http://snomed.info/id/739006009	5	solution	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/271737000	5	anemia	332	6.687	1.693	167	7.216	2.216	0.665	Clinical finding
+Systematic naming	http://snomed.info/id/738952007	4	ocular	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/732993006	5	dressing	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/129003000	7	dressing	0	NaN	NaN	0	NaN	NaN	NaN	Observable entity
+Systematic naming	http://snomed.info/id/398827000	5	vaccine	78	7.026	2.051	13	7.308	2.308	0.857	Substance
+Systematic naming	http://snomed.info/id/263887005	7	subcutaneous	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/764295003	5	subcutaneous	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/246464006	3	function	1292	6.278	3.278	1082	7.327	4.327	0.544	Observable entity
+Systematic naming	http://snomed.info/id/277064003	6	function	1	7.000	1.000	0	NaN	NaN	1.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/272394005	3	technique	313	4.792	1.792	204	4.652	1.652	0.605	Qualifier value
+Systematic naming	http://snomed.info/id/13924000	8	wound	54	8.963	1.333	117	9.880	1.983	0.316	Body structure
+Systematic naming	http://snomed.info/id/416462003	4	wound	1045	7.911	3.911	3029	8.046	4.046	0.257	Clinical finding
+Systematic naming	http://snomed.info/id/385640009	6	does	1	7.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/74188005	6	medical	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/118630004	6	division	202	7.876	1.946	270	7.500	1.626	0.428	Procedure
+Systematic naming	http://snomed.info/id/81723002	7	amputation	137	8.474	1.562	37	8.351	1.459	0.787	Procedure
+Systematic naming	http://snomed.info/id/278109006	6	mechanism	4	7.000	1.000	0	NaN	NaN	1.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/255589003	5	direct	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/264217000	6	superior	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/263654008	5	abnormal	1	5.000	0.000	2	6.000	1.000	0.333	Qualifier value
+Systematic naming	http://snomed.info/id/108369006	9	neoplasm	134	10.925	1.970	1724	11.988	3.042	0.072	Body structure
+Systematic naming	http://snomed.info/id/246262008	8	score	1	9.000	1.000	0	NaN	NaN	1.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/733026001	5	vial	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/418560003	5	absence	4	6.750	1.750	18	8.222	3.222	0.182	Body structure
+Systematic naming	http://snomed.info/id/260385009	5	negative	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/35933005	10	laceration	17	10.882	1.000	5	10.400	1.200	0.773	Body structure
+Systematic naming	http://snomed.info/id/116154003	5	patient	0	NaN	NaN	2	6.000	1.000	0.000	Social context
+Systematic naming	http://snomed.info/id/260818008	7	serogroup	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/277536004	6	serogroup	8	7.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/260872001	7	agent	3	8.000	1.000	0	NaN	NaN	1.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/2483006	7	cavity	7	7.857	0.857	2	8.000	1.000	0.778	Body structure
+Systematic naming	http://snomed.info/id/255374006	5	visual	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/14766002	6	aspiration	504	6.595	0.921	139	6.043	0.748	0.784	Procedure
+Systematic naming	http://snomed.info/id/29179001	6	closed	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/428794004	4	fistula	366	6.792	2.792	37	6.324	2.324	0.908	Clinical finding
+Systematic naming	http://snomed.info/id/118622000	6	fistula	29	7.655	1.655	1	6.000	0.000	0.967	Body structure
+Systematic naming	http://snomed.info/id/429040005	4	ulcer	541	6.950	2.950	211	6.773	2.773	0.719	Clinical finding
+Systematic naming	http://snomed.info/id/56208002	7	ulcer	32	8.219	1.219	10	8.000	1.000	0.762	Body structure
+Systematic naming	http://snomed.info/id/255503000	6	entire	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/103360007	5	complex	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/246106000	7	control	5	8.000	1.000	0	NaN	NaN	1.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/261183002	6	upper	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/90260006	7	allergen	0	NaN	NaN	2	6.500	0.500	0.000	Substance
+Systematic naming	http://snomed.info/id/277054007	7	allergen	0	NaN	NaN	1	8.000	1.000	0.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/419473009	4	each	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/53348004	6	accidental	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/30507006	6	into	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/30807003	6	benign	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/115956009	5	release	100	6.350	1.350	17	6.529	1.529	0.855	Procedure
+Systematic naming	http://snomed.info/id/764771001	5	ring	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255399007	5	congenital	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/257733005	4	activity	16	6.250	2.250	133	7.331	3.331	0.107	Observable entity
+Systematic naming	http://snomed.info/id/72704001	8	fracture	127	9.079	1.520	27	9.704	1.778	0.825	Body structure
+Systematic naming	http://snomed.info/id/732937005	5	capsule	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/385049006	5	capsule	3	6.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/261051005	7	aortic	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/87572000	6	reflex	104	7.317	1.337	24	7.375	1.375	0.813	Observable entity
+Systematic naming	http://snomed.info/id/260769002	3	material	129	6.302	3.302	2254	7.846	4.846	0.054	Substance
+Systematic naming	http://snomed.info/id/276731003	6	material	17	7.000	1.000	4	8.000	2.000	0.810	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/256259004	7	pollen	289	8.606	2.346	0	NaN	NaN	1.000	Substance
+Systematic naming	http://snomed.info/id/6920004	7	defect	1	6.000	1.000	156	9.160	2.237	0.006	Body structure
+Systematic naming	http://snomed.info/id/738904002	4	cutaneous	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/410679008	6	surface	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/410678000	7	surface	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/721963009	6	order	3	7.000	1.000	0	NaN	NaN	1.000	Record artifact
+Systematic naming	http://snomed.info/id/64957009	6	uncertain	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/367450005	5	short	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/123038009	2	specimen	1024	5.409	3.409	676	5.074	3.074	0.602	Specimen
+Systematic naming	http://snomed.info/id/70905002	5	third	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/72906007	6	common	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/261080001	7	femoral	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/409073007	4	education	783	6.197	2.197	245	7.020	3.020	0.762	Procedure
+Systematic naming	http://snomed.info/id/736847009	5	prolonged-release	2	5.500	0.500	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/50960005	6	hemorrhage	20	7.200	1.200	19	7.474	1.474	0.513	Body structure
+Systematic naming	http://snomed.info/id/417893002	3	deformity	330	6.306	3.306	1003	6.106	3.106	0.248	Clinical finding
+Systematic naming	http://snomed.info/id/6081001	6	deformity	19	7.368	1.368	33	7.727	1.727	0.365	Body structure
+Systematic naming	http://snomed.info/id/263954005	7	arterial	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/86495002	6	for	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/81170007	5	second	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/26242008	5	mixed	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/398092000	7	obtained	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/763824009	5	gas	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/736680000	4	gas	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/64572001	3	disease	1956	7.340	4.340	74026	7.680	4.680	0.026	Clinical finding
+Systematic naming	http://snomed.info/id/255507004	5	small	1	6.000	1.000	2	6.000	1.000	0.333	Qualifier value
+Systematic naming	http://snomed.info/id/26283006	6	superficial	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/371150009	6	able	1	7.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/52101004	5	present	7	6.000	1.000	1	5.000	0.000	0.875	Qualifier value
+Systematic naming	http://snomed.info/id/415582006	8	stenosis	6	8.500	0.500	2	9.500	1.500	0.750	Body structure
+Systematic naming	http://snomed.info/id/246199000	6	deficiency	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/264082005	7	lumbar	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/34957004	6	acid	34	7.853	1.912	2	8.500	2.500	0.944	Substance
+Systematic naming	http://snomed.info/id/255227004	8	recurrent	1	8.000	0.000	1	9.000	1.000	0.500	Qualifier value
+Systematic naming	http://snomed.info/id/261324000	3	vehicle	26	5.654	2.654	153	6.353	3.353	0.145	Physical object
+Systematic naming	http://snomed.info/id/85659009	7	aneurysm	24	8.125	1.125	8	8.375	1.375	0.750	Body structure
+Systematic naming	http://snomed.info/id/432119003	6	aneurysm	238	8.214	2.239	13	6.846	1.308	0.948	Clinical finding
+Systematic naming	http://snomed.info/id/257351008	7	shunt	22	8.000	1.000	0	NaN	NaN	1.000	Physical object
+Systematic naming	http://snomed.info/id/14414005	6	peripheral	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/276625007	6	level	7	7.000	1.000	0	NaN	NaN	1.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/68498002	5	antibody	2384	10.028	5.029	692	9.077	4.079	0.775	Substance
+Systematic naming	http://snomed.info/id/5540006	7	calcium	1	8.000	1.000	0	NaN	NaN	1.000	Substance
+Systematic naming	http://snomed.info/id/62482003	5	low	2	6.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/49370004	6	lateral	2	7.000	1.000	5	7.400	1.400	0.286	Qualifier value
+Systematic naming	http://snomed.info/id/363679005	5	imaging	947	7.056	2.092	5500	7.106	2.141	0.147	Procedure
+Systematic naming	http://snomed.info/id/277046005	7	class	2	8.000	1.000	4	8.000	1.000	0.333	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/90734009	6	chronic	6	7.000	1.000	13	7.538	1.692	0.316	Qualifier value
+Systematic naming	http://snomed.info/id/421890007	5	oil	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/21847005	8	oil	141	6.567	1.447	36	6.861	1.417	0.797	Substance
+Systematic naming	http://snomed.info/id/49062001	3	device	1316	7.011	4.011	13790	7.314	4.314	0.087	Physical object
+Systematic naming	http://snomed.info/id/20401003	6	with	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/58147004	6	clinical	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255603008	7	major	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/65801008	6	excision	1944	7.737	1.836	2385	7.784	1.905	0.449	Procedure
+Systematic naming	http://snomed.info/id/7120007	5	antigen	1654	8.085	3.085	87	7.092	2.092	0.950	Substance
+Systematic naming	http://snomed.info/id/263775005	5	health	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/738988002	4	urethral	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/264255005	7	urethral	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/257585005	6	clinic	130	7.023	1.023	1	7.000	1.000	0.992	Environment or geographical location
+Systematic naming	http://snomed.info/id/255509001	5	large	1	6.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/112133008	7	immunoglobulin	124	10.113	3.290	24	7.208	1.042	0.838	Substance
+Systematic naming	http://snomed.info/id/87612001	5	blood	20	6.200	1.200	0	NaN	NaN	1.000	Substance
+Systematic naming	http://snomed.info/id/732985006	5	block	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/276239002	4	therapy	276	6.725	2.725	762	6.773	2.773	0.266	Procedure
+Systematic naming	http://snomed.info/id/24028007	6	right	1	7.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/255536004	6	extension	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/77343006	6	angiography	453	7.322	1.512	1052	7.093	1.236	0.301	Procedure
+Systematic naming	http://snomed.info/id/42798000	6	area	1	7.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/55561003	6	active	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/26036001	7	obstruction	16	8.063	1.063	5	8.200	1.200	0.762	Body structure
+Systematic naming	http://snomed.info/id/129264002	3	action	338	5.843	2.843	104	6.606	3.606	0.765	Qualifier value
+Systematic naming	http://snomed.info/id/273248003	6	action	0	NaN	NaN	27	7.259	1.259	0.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/261089000	6	inferior	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255470001	6	local	2	7.000	1.000	1	7.000	1.000	0.667	Qualifier value
+Systematic naming	http://snomed.info/id/261217004	6	substance	3	7.000	1.000	29	7.690	1.690	0.094	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/105590001	2	substance	406	5.394	3.394	26454	7.589	5.589	0.015	Substance
+Systematic naming	http://snomed.info/id/263904004	5	traumatic	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/262094002	7	related	0	NaN	NaN	0	NaN	NaN	NaN	Clinical finding
+Systematic naming	http://snomed.info/id/72670004	5	sign	119	6.277	1.311	121	6.926	1.942	0.496	Clinical finding
+Systematic naming	http://snomed.info/id/116647005	4	receptor	75	5.947	1.947	7	5.714	1.714	0.915	Substance
+Systematic naming	http://snomed.info/id/29970001	5	fourth	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/10546003	6	site	0	NaN	NaN	11	7.545	1.545	0.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/246115007	6	size	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/260521003	6	internal	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/277112006	7	abdominal	0	NaN	NaN	2	8.500	1.500	0.000	Qualifier value
+Systematic naming	http://snomed.info/id/260540009	7	nasal	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/738948007	4	nasal	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/272735005	8	vessel	3	9.000	1.000	0	NaN	NaN	1.000	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/733025002	5	vessel	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255594003	6	complete	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/276770009	6	serotype	85	7.871	1.871	246	8.967	2.967	0.257	Qualifier value
+Systematic naming	http://snomed.info/id/260820006	7	serotype	12	8.000	1.000	1	8.000	1.000	0.923	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/258684004	6	milligram	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/261074009	6	external	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/67822003	7	child	7	7.429	1.000	24	8.458	1.458	0.226	Social context
+Systematic naming	http://snomed.info/id/87568004	5	hormone	33	6.394	1.394	441	6.889	1.902	0.070	Substance
+Systematic naming	http://snomed.info/id/734617007	5	hormone	17	6.235	1.235	5	6.200	1.200	0.773	Qualifier value
+Systematic naming	http://snomed.info/id/415178003	3	process	1	4.000	1.000	440	7.941	4.941	0.002	Observable entity
+Systematic naming	http://snomed.info/id/719982003	3	process	40	5.900	2.900	13	6.077	3.077	0.755	Qualifier value
+Systematic naming	http://snomed.info/id/419351001	7	sinus	1	8.000	1.000	0	NaN	NaN	1.000	Body structure
+Systematic naming	http://snomed.info/id/37378003	6	soft	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/385055001	5	tablet	1	6.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/732936001	5	tablet	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/261029002	4	sterile	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/35105006	4	increased	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/255328007	5	auditory	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/83578000	6	surgical	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/246343008	7	flap	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/256683004	8	flap	348	10.991	2.991	1	11.000	3.000	0.997	Substance
+Systematic naming	http://snomed.info/id/264031007	7	in situ	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/736849007	4	conventional release	1	5.000	1.000	0	NaN	NaN	1.000	Qualifier value
+Systematic naming	http://snomed.info/id/397181002	6	open fracture	552	9.259	3.266	104	9.019	3.077	0.841	Clinical finding
+Systematic naming	http://snomed.info/id/59091005	9	open wound	2	10.000	1.000	118	9.924	1.195	0.017	Body structure
+Systematic naming	http://snomed.info/id/125643001	5	open wound	477	8.046	3.046	2523	8.377	3.377	0.159	Clinical finding
+Systematic naming	http://snomed.info/id/133860004	5	open reduction	352	6.673	1.741	11	6.000	1.182	0.970	Procedure
+Systematic naming	http://snomed.info/id/272673000	7	bone structure	367	10.324	3.330	4211	10.740	3.742	0.080	Body structure
+Systematic naming	http://snomed.info/id/73211009	7	diabetes mellitus	248	7.460	1.137	64	7.484	1.391	0.795	Clinical finding
+Systematic naming	http://snomed.info/id/282721001	6	fluoroscopic guidance	877	6.523	0.875	48	6.417	0.625	0.948	Procedure
+Systematic naming	http://snomed.info/id/24851008	8	deoxyribonucleic acid	243	10.465	2.465	0	NaN	NaN	1.000	Substance
+Systematic naming	http://snomed.info/id/440379008	5	referral to	1	6.000	1.000	0	NaN	NaN	1.000	Observable entity
+Systematic naming	http://snomed.info/id/363556002	4	undetermined intent	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/717896003	6	does not	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value
+Systematic naming	http://snomed.info/id/112283007	9	escherichia coli	667	11.883	2.910	1	12.000	3.000	0.999	Organism
+Systematic naming	http://snomed.info/id/281647001	5	adverse reaction	1666	8.263	3.263	237	7.042	2.059	0.875	Clinical finding
+Systematic naming	http://snomed.info/id/181469002	7	entire skin	0	NaN	NaN	0	NaN	NaN	NaN	Body structure
+Systematic naming	http://snomed.info/id/19227008	6	foreign body	17	7.176	1.176	6	7.667	1.667	0.739	Body structure
+Systematic naming	http://snomed.info/id/125670008	4	foreign body	440	6.698	2.698	273	6.853	2.853	0.617	Clinical finding
+Systematic naming	http://snomed.info/id/709079002	3	allergen extract	394	5.832	2.832	22	5.727	2.727	0.947	Pharmaceutical / biologic product
+Systematic naming	http://snomed.info/id/263916005	6	uncertain behavior	0	NaN	NaN	0	NaN	NaN	NaN	Clinical finding
+Systematic naming	http://snomed.info/id/127484005	6	branch of	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/129453003	6	deficiency of	0	NaN	NaN	0	NaN	NaN	NaN	SNOMED CT Model Component
+Systematic naming	http://snomed.info/id/3527003	7	antibody measurement	644	8.362	1.362	1151	9.144	2.153	0.359	Procedure
+Systematic naming	http://snomed.info/id/48583005	11	immunoglobulin e	3	9.667	2.000	0	NaN	NaN	1.000	Substance
+Systematic naming	http://snomed.info/id/29246005	11	immunoglobulin g	6	10.167	1.167	13	9.692	1.923	0.316	Substance
+Systematic naming	http://snomed.info/id/39937001	6	skin structure	350	11.329	5.329	1117	11.039	5.048	0.239	Body structure
+Systematic naming	http://snomed.info/id/181607009	4	soft tissue	0	NaN	NaN	0	NaN	NaN	NaN	Special concept
+Systematic naming	http://snomed.info/id/385268001	4	oral dose form	0	NaN	NaN	61	5.607	1.607	0.000	Qualifier value
+Systematic naming	http://snomed.info/id/411123000	4	diagnostic allergen extract	336	5.961	1.961	0	NaN	NaN	1.000	Pharmaceutical / biologic product
+Systematic naming	http://snomed.info/id/109355002	6	carcinoma in situ	355	8.670	2.670	41	8.561	2.561	0.896	Clinical finding
+Systematic naming	http://snomed.info/id/385287007	4	parenteral dose form	0	NaN	NaN	25	5.160	1.160	0.000	Qualifier value
+Systematic naming	http://snomed.info/id/740596000	4	cutaneous dose form	0	NaN	NaN	24	5.167	1.167	0.000	Qualifier value
+Systematic naming	http://snomed.info/id/113091000	6	magnetic resonance imaging	612	7.498	1.642	91	8.165	2.187	0.871	Procedure
+Systematic naming	http://snomed.info/id/19830006	9	blood group antibody	646	11.557	2.594	49	10.000	1.327	0.929	Substance
+Systematic naming	http://snomed.info/id/4422003	6	blood group antigen	710	8.672	2.675	55	7.382	1.418	0.928	Substance
+Systematic naming	http://snomed.info/id/122859005	5	reduction of fracture	342	6.936	2.006	243	6.728	1.761	0.585	Procedure
+Systematic naming	http://snomed.info/id/372087000	7	primary malignant neoplasm	572	8.949	1.977	1560	8.935	2.027	0.268	Clinical finding
+Systematic naming	http://snomed.info/id/269736006	5	poisoning of undetermined intent	501	7.052	2.052	14	6.929	1.929	0.973	Clinical finding
+Systematic naming	http://snomed.info/id/420692007	5	conventional release oral capsule	0	NaN	NaN	2	6.000	1.000	0.000	Qualifier value
+Systematic naming	http://snomed.info/id/421026006	5	conventional release oral tablet	0	NaN	NaN	1	6.000	1.000	0.000	Qualifier value
+Systematic naming	http://snomed.info/id/385219001	5	conventional release solution for injection	0	NaN	NaN	2	6.000	1.000	0.000	Qualifier value
+Systematic naming	http://snomed.info/id/385223009	5	powder for conventional release solution for injection	0	NaN	NaN	0	NaN	NaN	NaN	Qualifier value

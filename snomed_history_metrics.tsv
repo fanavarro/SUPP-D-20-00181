@@ -1,0 +1,289 @@
+File	Metric	Value
+20150131	Lexically suggest logically define	0.279
+20150131	Systematic naming	0.171
+20150131	Number of classes	312921.000
+20150131	Names per class	2.071
+20150131	Names per property	1.902
+20150131	Names per annotation property	0.000
+20150131	Names per data property	NaN
+20150131	Names per object property	2.000
+20150131	Synonyms per class	0.537
+20150131	Synonyms per property	0.085
+20150131	Synonyms per annotation property	0.000
+20150131	Synonyms per data property	NaN
+20150131	Synonyms per object property	0.090
+20150131	Descriptions per class	0.003
+20150131	Descriptions per property	0.195
+20150131	Descriptions per annotation property	0.000
+20150131	Descriptions per data property	NaN
+20150131	Descriptions per object property	0.205
+20120731	Lexically suggest logically define	0.276
+20120731	Systematic naming	0.177
+20120731	Number of classes	296372.000
+20120731	Names per class	2.070
+20120731	Names per property	1.851
+20120731	Names per annotation property	0.000
+20120731	Names per data property	NaN
+20120731	Names per object property	1.968
+20120731	Synonyms per class	0.537
+20120731	Synonyms per property	0.090
+20120731	Synonyms per annotation property	0.000
+20120731	Synonyms per data property	NaN
+20120731	Synonyms per object property	0.095
+20120731	Descriptions per class	0.002
+20120731	Descriptions per property	0.000
+20120731	Descriptions per annotation property	0.000
+20120731	Descriptions per data property	NaN
+20120731	Descriptions per object property	0.000
+20140131	Lexically suggest logically define	0.275
+20140131	Systematic naming	0.179
+20140131	Number of classes	298519.000
+20140131	Names per class	2.070
+20140131	Names per property	1.881
+20140131	Names per annotation property	0.000
+20140131	Names per data property	NaN
+20140131	Names per object property	2.000
+20140131	Synonyms per class	0.549
+20140131	Synonyms per property	0.090
+20140131	Synonyms per annotation property	0.000
+20140131	Synonyms per data property	NaN
+20140131	Synonyms per object property	0.095
+20140131	Descriptions per class	0.003
+20140131	Descriptions per property	0.000
+20140131	Descriptions per annotation property	0.000
+20140131	Descriptions per data property	NaN
+20140131	Descriptions per object property	0.000
+20190131	Lexically suggest logically define	0.295
+20190131	Systematic naming	0.171
+20190131	Number of classes	349430.000
+20190131	Names per class	2.067
+20190131	Names per property	1.935
+20190131	Names per annotation property	0.000
+20190131	Names per data property	NaN
+20190131	Names per object property	2.000
+20190131	Synonyms per class	0.529
+20190131	Synonyms per property	0.057
+20190131	Synonyms per annotation property	0.000
+20190131	Synonyms per data property	NaN
+20190131	Synonyms per object property	0.059
+20190131	Descriptions per class	0.016
+20190131	Descriptions per property	0.341
+20190131	Descriptions per annotation property	0.000
+20190131	Descriptions per data property	NaN
+20190131	Descriptions per object property	0.353
+20130731	Lexically suggest logically define	0.279
+20130731	Systematic naming	0.179
+20130731	Number of classes	298756.000
+20130731	Names per class	2.070
+20130731	Names per property	1.881
+20130731	Names per annotation property	0.000
+20130731	Names per data property	NaN
+20130731	Names per object property	2.000
+20130731	Synonyms per class	0.540
+20130731	Synonyms per property	0.090
+20130731	Synonyms per annotation property	0.000
+20130731	Synonyms per data property	NaN
+20130731	Synonyms per object property	0.095
+20130731	Descriptions per class	0.002
+20130731	Descriptions per property	0.000
+20130731	Descriptions per annotation property	0.000
+20130731	Descriptions per data property	NaN
+20130731	Descriptions per object property	0.000
+20160731	Lexically suggest logically define	0.281
+20160731	Systematic naming	0.173
+20160731	Number of classes	321823.000
+20160731	Names per class	2.071
+20160731	Names per property	1.904
+20160731	Names per annotation property	0.000
+20160731	Names per data property	NaN
+20160731	Names per object property	2.000
+20160731	Synonyms per class	0.555
+20160731	Synonyms per property	0.060
+20160731	Synonyms per annotation property	0.000
+20160731	Synonyms per data property	NaN
+20160731	Synonyms per object property	0.063
+20160731	Descriptions per class	0.007
+20160731	Descriptions per property	0.205
+20160731	Descriptions per annotation property	0.000
+20160731	Descriptions per data property	NaN
+20160731	Descriptions per object property	0.215
+20180131	Lexically suggest logically define	0.271
+20180131	Systematic naming	0.172
+20180131	Number of classes	340997.000
+20180131	Names per class	2.069
+20180131	Names per property	1.929
+20180131	Names per annotation property	0.000
+20180131	Names per data property	NaN
+20180131	Names per object property	2.000
+20180131	Synonyms per class	0.548
+20180131	Synonyms per property	0.062
+20180131	Synonyms per annotation property	0.000
+20180131	Synonyms per data property	NaN
+20180131	Synonyms per object property	0.064
+20180131	Descriptions per class	0.012
+20180131	Descriptions per property	0.283
+20180131	Descriptions per annotation property	0.000
+20180131	Descriptions per data property	NaN
+20180131	Descriptions per object property	0.294
+20130131	Lexically suggest logically define	0.277
+20130131	Systematic naming	0.180
+20130131	Number of classes	297937.000
+20130131	Names per class	2.070
+20130131	Names per property	1.851
+20130131	Names per annotation property	0.000
+20130131	Names per data property	NaN
+20130131	Names per object property	1.968
+20130131	Synonyms per class	0.538
+20130131	Synonyms per property	0.090
+20130131	Synonyms per annotation property	0.000
+20130131	Synonyms per data property	NaN
+20130131	Synonyms per object property	0.095
+20130131	Descriptions per class	0.002
+20130131	Descriptions per property	0.000
+20130131	Descriptions per annotation property	0.000
+20130131	Descriptions per data property	NaN
+20130131	Descriptions per object property	0.000
+20160131	Lexically suggest logically define	0.282
+20160131	Systematic naming	0.173
+20160131	Number of classes	319369.000
+20160131	Names per class	2.071
+20160131	Names per property	1.902
+20160131	Names per annotation property	0.000
+20160131	Names per data property	NaN
+20160131	Names per object property	2.000
+20160131	Synonyms per class	0.555
+20160131	Synonyms per property	0.061
+20160131	Synonyms per annotation property	0.000
+20160131	Synonyms per data property	NaN
+20160131	Synonyms per object property	0.064
+20160131	Descriptions per class	0.004
+20160131	Descriptions per property	0.195
+20160131	Descriptions per annotation property	0.000
+20160131	Descriptions per data property	NaN
+20160131	Descriptions per object property	0.205
+20190731	Lexically suggest logically define	0.304
+20190731	Systematic naming	0.171
+20190731	Number of classes	350711.000
+20190731	Names per class	2.067
+20190731	Names per property	1.935
+20190731	Names per annotation property	0.000
+20190731	Names per data property	NaN
+20190731	Names per object property	2.000
+20190731	Synonyms per class	0.529
+20190731	Synonyms per property	0.056
+20190731	Synonyms per annotation property	0.000
+20190731	Synonyms per data property	NaN
+20190731	Synonyms per object property	0.058
+20190731	Descriptions per class	0.017
+20190731	Descriptions per property	0.363
+20190731	Descriptions per annotation property	0.000
+20190731	Descriptions per data property	NaN
+20190731	Descriptions per object property	0.375
+20150731	Lexically suggest logically define	0.281
+20150731	Systematic naming	0.174
+20150731	Number of classes	316980.000
+20150731	Names per class	2.071
+20150731	Names per property	1.902
+20150731	Names per annotation property	0.000
+20150731	Names per data property	NaN
+20150731	Names per object property	2.000
+20150731	Synonyms per class	0.547
+20150731	Synonyms per property	0.085
+20150731	Synonyms per annotation property	0.000
+20150731	Synonyms per data property	NaN
+20150731	Synonyms per object property	0.090
+20150731	Descriptions per class	0.004
+20150731	Descriptions per property	0.195
+20150731	Descriptions per annotation property	0.000
+20150731	Descriptions per data property	NaN
+20150731	Descriptions per object property	0.205
+20110731	Lexically suggest logically define	0.276
+20110731	Systematic naming	0.176
+20110731	Number of classes	295647.000
+20110731	Names per class	2.070
+20110731	Names per property	1.851
+20110731	Names per annotation property	0.000
+20110731	Names per data property	NaN
+20110731	Names per object property	1.968
+20110731	Synonyms per class	0.533
+20110731	Synonyms per property	0.090
+20110731	Synonyms per annotation property	0.000
+20110731	Synonyms per data property	NaN
+20110731	Synonyms per object property	0.095
+20110731	Descriptions per class	0.002
+20110731	Descriptions per property	0.000
+20110731	Descriptions per annotation property	0.000
+20110731	Descriptions per data property	NaN
+20110731	Descriptions per object property	0.000
+20180731	Lexically suggest logically define	0.287
+20180731	Systematic naming	0.169
+20180731	Number of classes	340546.000
+20180731	Names per class	2.067
+20180731	Names per property	1.932
+20180731	Names per annotation property	0.000
+20180731	Names per data property	NaN
+20180731	Names per object property	2.000
+20180731	Synonyms per class	0.564
+20180731	Synonyms per property	0.059
+20180731	Synonyms per annotation property	0.000
+20180731	Synonyms per data property	NaN
+20180731	Synonyms per object property	0.061
+20180731	Descriptions per class	0.014
+20180731	Descriptions per property	0.314
+20180731	Descriptions per annotation property	0.000
+20180731	Descriptions per data property	NaN
+20180731	Descriptions per object property	0.325
+20140731	Lexically suggest logically define	0.279
+20140731	Systematic naming	0.178
+20140731	Number of classes	300689.000
+20140731	Names per class	2.070
+20140731	Names per property	1.881
+20140731	Names per annotation property	0.000
+20140731	Names per data property	NaN
+20140731	Names per object property	2.000
+20140731	Synonyms per class	0.548
+20140731	Synonyms per property	0.090
+20140731	Synonyms per annotation property	0.000
+20140731	Synonyms per data property	NaN
+20140731	Synonyms per object property	0.095
+20140731	Descriptions per class	0.003
+20140731	Descriptions per property	0.000
+20140731	Descriptions per annotation property	0.000
+20140731	Descriptions per data property	NaN
+20140731	Descriptions per object property	0.000
+20120131	Lexically suggest logically define	0.275
+20120131	Systematic naming	0.177
+20120131	Number of classes	295858.000
+20120131	Names per class	2.070
+20120131	Names per property	1.851
+20120131	Names per annotation property	0.000
+20120131	Names per data property	NaN
+20120131	Names per object property	1.968
+20120131	Synonyms per class	0.536
+20120131	Synonyms per property	0.090
+20120131	Synonyms per annotation property	0.000
+20120131	Synonyms per data property	NaN
+20120131	Synonyms per object property	0.095
+20120131	Descriptions per class	0.002
+20120131	Descriptions per property	0.000
+20120131	Descriptions per annotation property	0.000
+20120131	Descriptions per data property	NaN
+20120131	Descriptions per object property	0.000
+20170731	Lexically suggest logically define	0.270
+20170731	Systematic naming	0.171
+20170731	Number of classes	336796.000
+20170731	Names per class	2.069
+20170731	Names per property	1.922
+20170731	Names per annotation property	0.000
+20170731	Names per data property	NaN
+20170731	Names per object property	2.000
+20170731	Synonyms per class	0.545
+20170731	Synonyms per property	0.078
+20170731	Synonyms per annotation property	0.000
+20170731	Synonyms per data property	NaN
+20170731	Synonyms per object property	0.082
+20170731	Descriptions per class	0.011
+20170731	Descriptions per property	0.265
+20170731	Descriptions per annotation property	0.000
+20170731	Descriptions per data property	NaN
+20170731	Descriptions per object property	0.276
